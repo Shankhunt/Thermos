@@ -14,6 +14,11 @@ public class Thermos {
 		qty = qty + val; 
 	}
 	
+	void sub(double val)
+	{
+		
+	}
+	
 	void display()
 	{
 		System.out.println("Liquid is " + liquid);
